@@ -1,0 +1,29 @@
+# Conecta Digital - robots.txt
+
+# Buscadores tradicionales (SEO)
+User-agent: *
+Allow: /
+
+# Motores de IA (AEO/GEO) - permitir que nos citen y recomienden
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://alben0188.github.io/conecta-digital/sitemap.xml
