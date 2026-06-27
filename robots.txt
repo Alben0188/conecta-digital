@@ -26,4 +26,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://alben0188.github.io/conecta-digital/sitemap.xml
+Sitemap: https://conectadigitalgt.com/sitemap.xml
